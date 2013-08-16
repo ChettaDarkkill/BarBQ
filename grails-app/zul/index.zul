@@ -55,6 +55,8 @@
 			<toolbarbutton href="checkin.zul" label="CheckIn" style="font-size:25px; font-weight:bold; color:#66CCFF;  font-family:'20th Century Font'"/>
 			
 		</div>
+		<div>
+		</div>
 		<div align="right" width="1210px" style="vertical-align:top" height="300px">
 			<label style="color:white; font-weight:bold">Username:</label><space/>
 			<textbox id="txtUser" style="background-color:black; color:white; font-weight:bold"/>
@@ -62,7 +64,7 @@
 			<label style="color:white; font-weight:bold">Password:</label><space/>
 			<textbox id="txtPass" style="background-color:black; color:white; font-weight:bold" type="password"/>
 			<separator/><separator/>
-			<button id="btnLogin" label="Login" style="color:white; background-color:black; font-weight:bold; font-family:'20th Century Font'; font-size:20px" width="100px" height="30px"/>
+			 <button id="btnLogin" label="Login" style="color:white; background-color:black; font-weight:bold; font-family:'20th Century Font'; font-size:20px" width="100px" height="30px"/>
 			<separator/><separator/>
 			<button id="btnRegister" label="Register" style="font-weight:bold; font-family:'20th Century Font'; font-size:20px" width="120px" height="40px"/>	
 		</div>
