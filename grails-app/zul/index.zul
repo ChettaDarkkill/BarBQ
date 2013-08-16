@@ -30,6 +30,7 @@
 					<separator/><space/><space/><label style="font-size:20px">เบอร์โทรศัพท์</label>
 					<separator/><space/><space/><textbox id="inPhone"/>
 				</div>
+				<div></div>
 				<div width="300px" height="395px" style="background-color:#CCCCCC">
 					<separator/><separator/>
 					<separator/><space/><label style="font-size:20px">รหัสบัตรประชาชน</label>
