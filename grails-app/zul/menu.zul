@@ -39,7 +39,7 @@
 
 
 
-
+            <div></div>
             <center title="เมนูอาหารวันนี้">
                 <window  apply="barbq.MenuComposer" id="home" title="ทั้งหมด" border="normal" height="100%" width="100%">
                         <listbox id="box" height="100%">
