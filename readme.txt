@@ -1,1 +1,1 @@
-this is the project grails in software engineering subject
+ระบบร้านเนื้อย่างเกาหลีเป็น demo สำหรับคนที่จะพัฒนาระบบด้วย ZK Grails framework 
